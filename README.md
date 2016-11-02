@@ -3,7 +3,7 @@
 
 # Screenshot Aplikasi
 ![screenshot](https://github.com/toddyezra/Intent1/blob/master/Intent1.PNG)
-![screenshot]https://github.com/toddyezra/Intent1/blob/master/Intent1.1.PNG)
+![screenshot](https://github.com/toddyezra/Intent1/blob/master/Intent1.1.PNG)
 
 # Identitas 
  * Nama: Toddy Ezra 
